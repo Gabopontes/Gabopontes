@@ -23,6 +23,6 @@
 <div> 
   <a href="https://www.linkedin.com/in/gabriel-pontes-834270b2/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
  
-  ![Snake animation]https://github.com/Gabopontes 
+  ![Snake animation](https://github.com/Gabopontes/Gabopontes/blob/output/github-contribution-grid-snake.svg)
  
 </div>
