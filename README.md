@@ -1,11 +1,8 @@
 ### Opa! Gabriel Pontes por aqui 😀
 
 
-- 🔭 Hoje trabalho com Back-end
-- 🌱 Estou atualmente estudando .NET e C#.
-- 😄 Pronouns: Ele/Dele
-- ⚡ Fun fact: Estou migrando de gastronomia para T.I, até Chef de cozinha ja fui!
-
+- 🔭 Hoje trabalho com Full Stack C# .Net e Angular
+- 🌱 Estou atualmente estudando AzureDevOps.
 
 <div align="center">
   <a href="https://github.com/gabopontes">
